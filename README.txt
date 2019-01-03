@@ -1,5 +1,8 @@
 
-This is a list of papers I would like to implement, or would like to have an
+0. A Mandelbrot fractal is literally an infinitely detailed 2-D image (set of points) that looks interesting and complex as you zoom into its border areas to any degree. But the formula to generate or calculate this output is based on a simple formula: z(n+1) = z(n)^2 + C, and can be coded in about 10–20 lines of code.
+
+
+1. This is a list of papers I would like to implement, or would like to have an
 implementation of.  This list is likely to change as my interests change,
 including deletions.  Do not expect this list to remain static.
 
